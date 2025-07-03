@@ -1,0 +1,16 @@
+# Core database connectivity
+psycopg2-binary>=2.9.3
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.22.0
+
+# Utility packages
+uuid>=1.30
+python-dateutil>=2.8.2
+
+# Logging and configuration
+logging>=0.4.9.6
+
+# Command line argument parsing
+argparse>=1.4.0
